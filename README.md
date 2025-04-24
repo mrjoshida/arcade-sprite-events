@@ -39,7 +39,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/mrjoshida/arcade-sprite-events** and import
+* search for **https://github.com/mrjoshida/arcade-sprite-tile** and import
 
 
 #### Metadata (used for search, rendering)
