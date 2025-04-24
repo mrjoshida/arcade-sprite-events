@@ -1,6 +1,6 @@
 {
-    "name": "arcade-sprite-events",
-    "description": "",
+    "name": "arcade-sprite-tile",
+    "description": "Additional blocks to respond to sprites interacting with tiles",
     "dependencies": {
         "device": "*"
     },
