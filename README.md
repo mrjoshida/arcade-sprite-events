@@ -1,6 +1,6 @@
-# MakeCode Arcade sprite events extension
+# MakeCode Sprites and Tiles helper extension
 
-This extension adds a few blocks to MakeCode Arcade that give you events you can use with sprites and tilemaps.
+This extension is based on https://github.com/riknoll/arcade-sprite-events and adds a few addtional functions for sprite/tile interaction. The primary goal of this was to allow for momentary switch behavior where stepping off of a switch needs to be captured by an event.
 
 Here's a quick sample of the events that are available:
 
@@ -39,7 +39,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/riknoll/arcade-sprite-events** and import
+* search for **https://github.com/mrjoshida/arcade-sprite-events** and import
 
 
 #### Metadata (used for search, rendering)
